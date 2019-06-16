@@ -1,6 +1,7 @@
 """
 Check whether the squared matrix is singular or not
 """
+__author__ = "Hsuan-Hao Fan"
 
 import numpy as np
 
