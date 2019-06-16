@@ -5,7 +5,7 @@ dnautil module contains useful functions to process DNA sequence.
 
 """
 
-
+__author__ = "Ben Langmead"
 
 def gc(dna):
     """
